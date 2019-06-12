@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wallet component should render correctly 1`] = `
+<div
+  className="wallet"
+>
+  <h3
+    className="wallet__balance"
+  >
+    Wallet balance: 
+    0
+  </h3>
+</div>
+`;
