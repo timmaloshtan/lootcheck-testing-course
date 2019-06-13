@@ -10,5 +10,21 @@ exports[`Wallet component should render correctly 1`] = `
     Wallet balance: 
     0
   </h3>
+  <input
+    className="wallet__input"
+    onChange={[Function]}
+  />
+  <button
+    className="btn-deposit"
+    onClick={[Function]}
+  >
+    Deposit
+  </button>
+  <button
+    className="btn-withdraw"
+    onClick={[Function]}
+  >
+    Withdraw
+  </button>
 </div>
 `;
