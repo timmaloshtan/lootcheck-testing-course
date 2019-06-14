@@ -9,5 +9,17 @@ exports[`App component should render correctly 1`] = `
   </h2>
   <hr />
   <Connect(Wallet) />
+  <hr />
+  <Connect(Loot) />
+  <hr />
+  <div>
+    Powered by 
+    <a
+      href="https://www.coindesk.com/price"
+      target="_blank"
+    >
+      Coindesk
+    </a>
+  </div>
 </div>
 `;

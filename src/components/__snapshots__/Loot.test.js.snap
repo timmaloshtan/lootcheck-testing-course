@@ -5,7 +5,7 @@ exports[`Loot component should render correctly 1`] = `
   className="loot"
 >
   <h3>
-    BTC balance:
+    BTC balance: 
   </h3>
 </div>
 `;
